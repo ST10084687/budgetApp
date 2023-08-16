@@ -1,0 +1,8 @@
+C:\Users\crais\source\repos\budgetApp\budgetApp\bin\Debug\budgetApp.exe.config
+C:\Users\crais\source\repos\budgetApp\budgetApp\bin\Debug\budgetApp.exe
+C:\Users\crais\source\repos\budgetApp\budgetApp\bin\Debug\budgetApp.pdb
+C:\Users\crais\source\repos\budgetApp\budgetApp\obj\Debug\budgetApp.csproj.AssemblyReference.cache
+C:\Users\crais\source\repos\budgetApp\budgetApp\obj\Debug\budgetApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\crais\source\repos\budgetApp\budgetApp\obj\Debug\budgetApp.csproj.CoreCompileInputs.cache
+C:\Users\crais\source\repos\budgetApp\budgetApp\obj\Debug\budgetApp.exe
+C:\Users\crais\source\repos\budgetApp\budgetApp\obj\Debug\budgetApp.pdb
